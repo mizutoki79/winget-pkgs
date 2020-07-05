@@ -1,0 +1,15 @@
+Id: sharkdp.bat
+Version: 0.15.4
+Name: bat
+Publisher: sharkdp
+License: Apache License 2.0
+LicenseUrl: https://github.com/sharkdp/bat/blob/master/LICENSE-APACHE
+Tags: cat, cli, git, syntax highlighting
+Description: A cat(1) clone with syntax highlighting and Git integration.
+Homepage: https://github.com/sharkdp/bat
+Installers:
+  - Arch: x64
+    Url: https://github.com/sharkdp/bat/releases/download/v0.15.4/bat-v0.15.4-x86_64-pc-windows-msvc.zip
+    Sha256: 382555BDADCF658A77174FF40E315B8F61E710A260C1E7BCA8A61FB4A073E290
+    InstallerType: zip
+
